@@ -8,65 +8,65 @@
   },
   {
     "id": 2,
-    "title": "Americano",
+    "title": "Mocha",
     "detail": "Kopi espresso yang dicampur air panas, menghasilkan rasa ringan namun tetap aromatik.",
-    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/americano_thumb.jpg",
-    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/americano_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/caffe_mocha_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/caffe_mocha_poster.jpg"
   },
   {
     "id": 3,
     "title": "Cappuccino",
     "detail": "Perpaduan espresso, susu panas, dan buih susu yang lembut di atasnya. Cocok untuk pagi hari.",
-    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/cappuccino_thumb.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/cappuccino_thumbnail.png",
     "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/cappuccino_poster.jpg"
   },
   {
     "id": 4,
-    "title": "Caffè Latte",
+    "title": "Caramel Macchiato",
     "detail": "Perpaduan espresso dengan susu panas dalam takaran seimbang, menciptakan rasa lembut dan creamy.",
-    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/latte_thumb.jpg",
-    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/latte_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/caramel_macchiato_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/caramel_macchiato_poster.jpg"
   },
   {
     "id": 5,
-    "title": "Macchiato",
+    "title": "Frappuccino",
     "detail": "Espresso dengan sedikit buih susu di atasnya. Rasa kopi tetap kuat dengan sentuhan lembut.",
-    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/macchiato_thumb.jpg",
-    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/macchiato_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/coffee_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/coffee_frappuccino_poster.jpg"
   },
   {
     "id": 6,
-    "title": "Mocha",
+    "title": "Cold Brew",
     "detail": "Kombinasi espresso, cokelat, dan susu panas. Pilihan manis untuk penggemar kopi cokelat.",
-    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/mocha_thumb.jpg",
-    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/mocha_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/cold_brew_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/cold_brew_poster.jpg"
   },
   {
     "id": 7,
-    "title": "Affogato",
+    "title": "Manggo Passion Frappuccino",
     "detail": "Kopi espresso panas yang dituangkan di atas es krim vanilla, menghadirkan perpaduan rasa unik.",
-    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/affogato_thumb.jpg",
-    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/affogato_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/manggo_passion_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/manggo_passion_frappuccino_poster.jpg"
   },
   {
     "id": 8,
-    "title": "Cold Brew",
+    "title": "Mocha Frappuccino",
     "detail": "Kopi diseduh dengan air dingin selama berjam-jam, menghasilkan rasa halus dan rendah keasaman.",
-    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/coldbrew_thumb.jpg",
-    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/coldbrew_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/mocha_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/mocha_frappuccino_poster.jpg"
   },
   {
     "id": 9,
-    "title": "Iced Latte",
+    "title": "Raspberry Currant Frappuccino",
     "detail": "Kopi espresso yang dicampur susu dingin dan es batu, cocok untuk hari yang panas.",
-    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/icedlatte_thumb.jpg",
-    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/icedlatte_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/raspberry_currant_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/raspberry_currant_frappuccino_poster.jpg"
   },
   {
     "id": 10,
-    "title": "Caramel Latte",
+    "title": "Vanilla Sweet Cream Cold Brew",
     "detail": "Latte dengan tambahan sirup karamel yang manis dan aroma menggoda.",
-    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/caramel_thumb.jpg",
-    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/caramel_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/vanilla_sweet_cream_cold_brew_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/vanilla_sweet_cream_cold_brew_poster.jpg"
   }
 ]
