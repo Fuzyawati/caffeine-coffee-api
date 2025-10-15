@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "Espresso",
+    "title": "Latte",
     "detail": "Kopi murni dengan cita rasa kuat, disajikan dalam takaran kecil namun pekat dan kaya aroma.",
-    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/espresso_thumb.jpg",
-    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/espresso_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/caffe_latte_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/Fuzyawati/caffeine-coffee-api/main/caffe_latte_poster.jpg"
   },
   {
     "id": 2,
